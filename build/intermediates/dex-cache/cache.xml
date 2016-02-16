@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Skyver\Client\Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Skyver\Client\Client\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6211c13e700c7cd3fd9b71db191f1a56c9b38201.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\Client\Client\app\libs\com.fasterxml.jackson.annotations.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="C:\Users\Skyver\Client\Client\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.annotations-2e11bac137ea7180e16de3a8b0e78bae9d5dea0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-31bd07b69061a201d7d77373ae285f8fea69c60c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\Client\Client\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\Skyver\Client\Client\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-e10544417a8444c24a267ce745dd3fc94d7609d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\gson-2.2.4-6051d9530c8ee897f59c8d2ed968bcc70d4523a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\Client\Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Skyver\Client\Client\app\build\intermediates\pre-dexed\debug\classes-382a3fcb2672670b3b01fd36633402e64fef2057.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f6772fa687f2d1ee02ae7b7908fb1fbc96fa5dce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\Client\Client\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Skyver\Client\Client\app\build\intermediates\pre-dexed\debug\commons-io-2.4-6bb71b8c2d03c1803aa9d4053ebb018b96508f0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\commons-io-2.4-80f58aeaa9619d698e23b8725ea471ba92d3ce5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-dd1323fa09704e59ecc563979b4a3f756917bccd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-7150b6d86f747130dce626bae702d74e7713b226.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\libs\com.fasterxml.jackson.annotations.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.annotations-332ef770a9a517bd69177ad2d78d691602ed4cce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\classes-aad176d2935a2f952963091407dbb32e5522ff56.jar" />
+    </item>
+    <item
+        jar="C:\Users\Skyver\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\17.0\9c6ef172e8de35fd8d4d8783e4821e57cdef7445\guava-17.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c6ef172e8de35fd8d4d8783e4821e57cdef7445">
+        <dex dex="C:\Users\Skyver\TestProjects\MyAssignment_Cl_Srv\app\build\intermediates\pre-dexed\debug\guava-17.0-a117406be50b63e151417f9cce0d3c30bb62e235.jar" />
+    </item>
+
+</items>

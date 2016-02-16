@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Skyver/Client/Client/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black_alpha">#99000000</color>
+    <color name="fab">#33b5e5</color>
+    <color name="theme_primary">#127ef8</color>
+    <declare-styleable name="AppTheme"><attr format="reference" name="textAppearanceFinish"/></declare-styleable>
+    <!-- From: file:/C:/Users/Skyver/Client/Client/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Skyver/Client/Client/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MyAssignment3</string>
+    <string name="content_authority">vandy.mooc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="localhost">https://10.0.2.2:8443</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="server">Server IP or Hostname</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="title_activity_video_list">VideoListActivity</string>
+    <string name="title_activity_viewer">ViewerActivity</string>
+    <string name="title_upload_video">Upload Video by </string>
+    <string name="userName">Username</string>
+    <!-- From: file:/C:/Users/Skyver/Client/Client/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="CustomActionBarTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/actionbar_background</item>
+        <item name="android:height">60dp</item>
+    </style>
+</resources>
